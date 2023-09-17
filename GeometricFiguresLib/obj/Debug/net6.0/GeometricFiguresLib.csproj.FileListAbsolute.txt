@@ -1,0 +1,33 @@
+F:\Проекты\GeometricFiguresLib\bin\Debug\net6.0\GeometricFiguresLib.deps.json
+F:\Проекты\GeometricFiguresLib\bin\Debug\net6.0\GeometricFiguresLib.dll
+F:\Проекты\GeometricFiguresLib\bin\Debug\net6.0\GeometricFiguresLib.pdb
+F:\Проекты\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проекты\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.AssemblyInfoInputs.cache
+F:\Проекты\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.AssemblyInfo.cs
+F:\Проекты\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.csproj.CoreCompileInputs.cache
+F:\Проекты\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.dll
+F:\Проекты\GeometricFiguresLib\obj\Debug\net6.0\refint\GeometricFiguresLib.dll
+F:\Проекты\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.pdb
+F:\Проекты\GeometricFiguresLib\obj\Debug\net6.0\ref\GeometricFiguresLib.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\bin\Debug\net6.0\GeometricFiguresLib.deps.json
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\bin\Debug\net6.0\GeometricFiguresLib.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\bin\Debug\net6.0\GeometricFiguresLib.pdb
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.AssemblyInfoInputs.cache
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.AssemblyInfo.cs
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.csproj.CoreCompileInputs.cache
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\obj\Debug\net6.0\refint\GeometricFiguresLib.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.pdb
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib\obj\Debug\net6.0\ref\GeometricFiguresLib.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\bin\Debug\net6.0\GeometricFiguresLib.deps.json
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\bin\Debug\net6.0\GeometricFiguresLib.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\bin\Debug\net6.0\GeometricFiguresLib.pdb
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.AssemblyInfoInputs.cache
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.AssemblyInfo.cs
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.csproj.CoreCompileInputs.cache
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\obj\Debug\net6.0\refint\GeometricFiguresLib.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\obj\Debug\net6.0\GeometricFiguresLib.pdb
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib\obj\Debug\net6.0\ref\GeometricFiguresLib.dll

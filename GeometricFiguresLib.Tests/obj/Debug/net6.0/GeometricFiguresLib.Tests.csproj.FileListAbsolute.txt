@@ -1,0 +1,306 @@
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping_GeometricFiguresLib.Tests
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\testhost.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\testhost.exe
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.deps.json
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.runtimeconfig.json
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.pdb
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.abstractions.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.assert.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.core.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.execution.dotnet.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.dll
+F:\Проекты\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.pdb
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.csproj.AssemblyReference.cache
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.AssemblyInfoInputs.cache
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.AssemblyInfo.cs
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.csproj.CoreCompileInputs.cache
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.csproj.CopyComplete
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.dll
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\refint\GeometricFiguresLib.Tests.dll
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.pdb
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.genruntimeconfig.cache
+F:\Проекты\GeometricFiguresLib.Tests\obj\Debug\net6.0\ref\GeometricFiguresLib.Tests.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping_GeometricFiguresLib.Tests
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\testhost.exe
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\testhost.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.deps.json
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.runtimeconfig.json
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.pdb
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.abstractions.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.assert.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.core.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.execution.dotnet.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.pdb
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.csproj.AssemblyReference.cache
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.AssemblyInfoInputs.cache
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.AssemblyInfo.cs
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.csproj.CoreCompileInputs.cache
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.csproj.CopyComplete
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\refint\GeometricFiguresLib.Tests.dll
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.pdb
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.genruntimeconfig.cache
+F:\Проекты\GeometricFigureProject\GeometricFiguresLib.Tests\obj\Debug\net6.0\ref\GeometricFiguresLib.Tests.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping_GeometricFiguresLib.Tests
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\testhost.exe
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\testhost.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.deps.json
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.runtimeconfig.json
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.Tests.pdb
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.abstractions.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.assert.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.core.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\xunit.execution.dotnet.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\bin\Debug\net6.0\GeometricFiguresLib.pdb
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.csproj.AssemblyReference.cache
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.AssemblyInfoInputs.cache
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.AssemblyInfo.cs
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.csproj.CoreCompileInputs.cache
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.csproj.CopyComplete
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\refint\GeometricFiguresLib.Tests.dll
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.pdb
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\GeometricFiguresLib.Tests.genruntimeconfig.cache
+F:\Проекты\Новая папка (2)\GeometricFigureLib\GeometricFiguresLib.Tests\obj\Debug\net6.0\ref\GeometricFiguresLib.Tests.dll

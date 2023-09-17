@@ -1,0 +1,11 @@
+F:\Проекты\GeometricShapesLibrary\obj\Debug\net6.0\GeometricShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проекты\GeometricShapesLibrary\obj\Debug\net6.0\GeometricShapesLibrary.AssemblyInfoInputs.cache
+F:\Проекты\GeometricShapesLibrary\obj\Debug\net6.0\GeometricShapesLibrary.AssemblyInfo.cs
+F:\Проекты\GeometricShapesLibrary\obj\Debug\net6.0\GeometricShapesLibrary.csproj.CoreCompileInputs.cache
+F:\Проекты\GeometricShapesLibrary\bin\Debug\net6.0\GeometricShapesLibrary.deps.json
+F:\Проекты\GeometricShapesLibrary\bin\Debug\net6.0\GeometricShapesLibrary.dll
+F:\Проекты\GeometricShapesLibrary\bin\Debug\net6.0\GeometricShapesLibrary.pdb
+F:\Проекты\GeometricShapesLibrary\obj\Debug\net6.0\GeometricShapesLibrary.dll
+F:\Проекты\GeometricShapesLibrary\obj\Debug\net6.0\refint\GeometricShapesLibrary.dll
+F:\Проекты\GeometricShapesLibrary\obj\Debug\net6.0\GeometricShapesLibrary.pdb
+F:\Проекты\GeometricShapesLibrary\obj\Debug\net6.0\ref\GeometricShapesLibrary.dll
